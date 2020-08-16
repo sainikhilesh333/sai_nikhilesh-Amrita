@@ -20,3 +20,5 @@ you may greet them or ask questions such "where is your store located", "how can
 
 to get product relate questions try "how to turn on heater"
 
+
+[![ibm-chatbot-basic-ui.png](https://i.postimg.cc/fTNL1gsv/ibm-chatbot-basic-ui.png)](https://postimg.cc/MX9qQ5vc)

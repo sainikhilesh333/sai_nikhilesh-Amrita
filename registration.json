@@ -1,0 +1,1 @@
+[{"id":"4dd3abc6.f4aff4","type":"cloudant out","z":"6b3be71d.53bf88","name":"cloudant","cloudant":"","database":"sample","service":"node-red-hxnnx-2020--cloudant-1597405363089-40165","payonly":true,"operation":"insert","x":600,"y":180,"wires":[]}]

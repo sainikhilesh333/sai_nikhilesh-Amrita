@@ -19,3 +19,4 @@ LIVE PROJECT LINK: https://node-red-hxnnx-2020-08-14.mybluemix.net/ui/#!/2?socke
 you may greet them or ask questions such "where is your store located", "how can i reach you in chennai" or "what are the offers available" etc
 
 to get product relate questions try "how to turn on heater"
+

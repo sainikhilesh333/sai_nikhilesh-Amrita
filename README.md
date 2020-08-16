@@ -14,4 +14,8 @@ The chatbot has a registeration page, a login apge, a query page, customer help 
 
 The overall flow of the project is as follows, start with IBM cloud account, explore Node Red, Explore Watson assistant, explore IBM Discovery, Webhooks and finally deploy the chatbot.
 
+LIVE PROJECT LINK: https://node-red-hxnnx-2020-08-14.mybluemix.net/ui/#!/2?socketid=bVP8QArj56RxgAPmAAAU 
 
+you may greet them or ask questions such "where is your store located", "how can i reach you in chennai" or "what are the offers available" etc
+
+to get product relate questions try "how to turn on heater"
